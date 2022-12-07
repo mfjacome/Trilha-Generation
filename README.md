@@ -1,2 +1,2 @@
 # Trilha-Generation
-Aulas da trilha de back-end java no curso da generation
+Exercícios resolvidos usando o Portugol do curso da Generation
